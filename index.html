@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuestro primer año ❤️</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="hearts"></div>
+
+    <header class="hero">
+        <div class="hero-overlay"></div>
+
+        <div class="hero-content">
+            <p class="small-title">PARA NOSOTROS</p>
+
+            <h1>Nuestro<br><span>primer año</span></h1>
+
+            <div class="heart-line">♡</div>
+
+            <p class="hero-date">27 · 09 · 2025 — 27 · 09 · 2026</p>
+
+            <a href="#historia" class="hero-button">
+                Ver nuestra historia
+                <span>↓</span>
+            </a>
+        </div>
+    </header>
+
+
+    <main>
+
+        <section class="counter-section" id="historia">
+
+            <p class="section-label">Desde ese dia </p>
+
+            <h2>Han pasado...</h2>
+
+            <div class="counter">
+
+                <div class="counter-box">
+                    <span id="days">0</span>
+                    <small>DÍAS</small>
+                </div>
+
+                <div class="counter-box">
+                    <span id="hours">0</span>
+                    <small>HORAS</small>
+                </div>
+
+                <div class="counter-box">
+                    <span id="minutes">0</span>
+                    <small>MINUTOS</small>
+                </div>
+
+                <div class="counter-box">
+                    <span id="seconds">0</span>
+                    <small>SEGUNDOS</small>
+                </div>
+
+            </div>
+
+            <p class="counter-text">
+                Y todo lo que nos falta por vivirr...
+            </p>
+
+        </section>
+
+
+        <section class="intro-section">
+
+            <div class="intro-content">
+
+                <p class="section-label">Un año</p>
+
+                <h2>Si pudiera volver<br>al primer día...</h2>
+
+                <p>
+                    Volvería a elegirte una y infinitas veces.
+                </p>
+
+                <p>
+                    Porque en todo este año hemos pasado por muchas cosas,
+                    días difíciles, anecdotas chistosos , discusiones, abrazos,
+                    besos y recuerdos que no cambiaría por nada.
+                </p>
+
+                <div class="signature">
+                    ♡
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- GALERÍA INTERACTIVA -->
+
+        <section class="memories-section" id="recuerdos">
+
+            <div class="section-heading">
+
+                <p class="section-label">NUESTROS RECUERDOS</p>
+
+                <h2>Un año en fotografías de mi Album</h2>
+
+                <p>
+                    Cada foto tiene una historia y un recuerdo mio.
+                </p>
+
+            </div>
+
+            <div class="memory-grid" id="memoryGrid"></div>
+
+        </section>
+
+
+        <!-- MODAL DE CAPÍTULO -->
+
+        <div class="memory-modal" id="memoryModal">
+
+            <div class="modal-backdrop"></div>
+
+            <div class="memory-modal-content">
+
+                <button class="modal-close" id="modalClose">
+                    ×
+                </button>
+
+                <div class="modal-header">
+
+                    <p class="modal-date" id="modalDate"></p>
+
+                    <h2 id="modalTitle"></h2>
+
+                    <p id="modalDescription"></p>
+
+                </div>
+
+                <div class="memory-photos" id="memoryPhotos"></div>
+
+            </div>
+
+        </div>
+
+
+        <!-- LIGHTBOX -->
+
+        <div class="lightbox" id="lightbox">
+
+            <button class="lightbox-close" id="lightboxClose">
+                ×
+            </button>
+
+            <button class="lightbox-prev" id="lightboxPrev">
+                ‹
+            </button>
+
+            <img id="lightboxImage" src="" alt="Recuerdo">
+
+            <button class="lightbox-next" id="lightboxNext">
+                ›
+            </button>
+
+            <div class="lightbox-counter" id="lightboxCounter"></div>
+
+        </div>
+
+
+       
+
+
+        <!-- ROSAS -->
+
+        <section class="roses-section">
+
+            <div class="roses-content">
+
+                <p class="section-label">PARA TI</p>
+
+                <h2>50 rosas</h2>
+
+                <div class="rose-symbol">🌹</div>
+
+                <p>
+                    Cincuenta rosas para celebrar nuestro primer año,
+                    pero ninguna alcanza para representar todo lo que
+                    significas para mí.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- CARTA -->
+
+        <section class="letter-section">
+
+            <p class="section-label">ALGO QUE QUIERO DECIRTE</p>
+
+            <h2>Una carta para ti</h2>
+
+            <div class="envelope-container">
+
+                <div class="envelope" id="envelope">
+
+                    <div class="envelope-back"></div>
+
+                    <div class="letter-paper">
+
+                        <h3>Para Daniela ♡</h3>
+
+                        <p>
+                            Ha pasado un año desde que comenzó nuestra historia,
+                            y todavía me cuesta creer todo lo que hemos vivido.
+                        </p>
+
+                        <p>
+                            Gracias por cada momento, por cada risa,
+                            por cada abrazo y también por todos esos momentos
+                            que nos hicieron aprender.
+                        </p>
+
+                        <p>
+                            No sé exactamente qué nos espera después de este año,
+                            pero sí sé que quiero seguir creando recuerdos contigo.
+                        </p>
+
+                        <p>
+                            Feliz primer aniversario.
+                        </p>
+
+                        <strong>
+                            Te quiero mucho. ♡
+                        </strong>
+
+                    </div>
+
+                    <div class="envelope-flap"></div>
+
+                    <div class="envelope-front"></div>
+
+                    <div class="envelope-heart">
+                        ♥
+                    </div>
+
+                </div>
+
+            </div>
+
+            <p class="envelope-instruction">
+                Toca el sobre para abrirlo
+            </p>
+
+        </section>
+
+
+        <!-- MÚSICA -->
+
+        <section class="music-section">
+
+            <p class="section-label">NUESTRA CANCIÓN</p>
+
+            <h2>Presiona play</h2>
+
+            <div class="music-player">
+
+                <div class="music-disc">
+                    ♫
+                </div>
+
+                <div class="music-info">
+
+                    <span>NUESTRA CANCIÓN</span>
+
+                    <h3>Una canción para nosotros</h3>
+
+                </div>
+
+                <button id="musicButton">
+                    ▶
+                </button>
+
+                <audio id="music">
+                    <source src="dani/algomagico.mp3" type="audio/mpeg">
+                </audio>
+
+            </div>
+
+        </section>
+
+
+        <!-- FINAL -->
+
+        <section class="final-section">
+
+            <div class="final-content">
+
+                <div class="final-heart">
+                    ♡
+                </div>
+
+                <p class="section-label">
+                    27 · 09 · 2026
+                </p>
+
+                <h2>
+                    Y esto apenas<br>
+                    es el comienzo.
+                </h2>
+
+                <p>
+                    Gracias por formar parte de mi vida.
+                </p>
+
+                <div class="final-signature">
+                    Con cariño,<br>
+                    Lalito
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>
+            Hecho con mucho cariño ♡
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
