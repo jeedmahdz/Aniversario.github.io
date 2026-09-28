@@ -873,8 +873,8 @@ body.modal-open {
 .envelope-container {
     margin: 60px auto 20px;
 
-    width: 340px;
-    height: 240px;
+    width: 480px;
+    height: 340px;
 
     perspective: 1000px;
 }
@@ -985,9 +985,9 @@ body.modal-open {
 
     bottom: 5%;
 
-    height: 210px;
+    height: 300px;
 
-    padding: 25px;
+    padding: 30px;
 
     background: #f4e9df;
 
@@ -1003,7 +1003,7 @@ body.modal-open {
 
 .envelope.open .letter-paper {
     transform:
-        translateY(-130px);
+        translateY(-190px);
 
     z-index: 8;
 }
@@ -1036,6 +1036,33 @@ body.modal-open {
     font-size: 11px;
 
     letter-spacing: 2px;
+}
+
+@media (max-width: 600px) {
+
+    .envelope-container {
+        width: 90vw;
+        height: 64vw;
+        max-width: 480px;
+        max-height: 340px;
+    }
+
+    .letter-paper {
+        left: 7%;
+        right: 7%;
+        height: 75vw;
+        max-height: 300px;
+        padding: 22px;
+    }
+
+    .envelope.open .letter-paper {
+        transform: translateY(-35vw);
+    }
+
+    .letter-paper p {
+        font-size: 12px;
+    }
+
 }
 
 
