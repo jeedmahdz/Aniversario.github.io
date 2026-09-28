@@ -2,7 +2,7 @@ const memories = [
     {
         title: "Las primeras Flores",
         date: "21 · 03 · 2025",
-        description: "El comienzo de una historia que ninguno de los dos sabía hasta dónde iba a llegar.",
+        description:"Recuerdo todavia muy bien esa vez estaba muy nervioso a pesar de que no te las pude dar en persona, estaba nervioso pensando en si las habia mandado a la direccion correcta o si si saldrias para recibirlas y mas que nada por que era mi primera vez",
         photos: [
             "dani/2025/250321/ramo.jpeg"
         ]
@@ -11,7 +11,7 @@ const memories = [
     {
         title: "Nuestras primeras fotografias",
         date: "16 · 08 · 2025",
-        description: "Esos primeros momentos que poco a poco fueron convirtiéndose en recuerdos.",
+        description: "Esa vez recuerdo que salimos a la laguna despues creo de habernos ghosteado, recuerdo haberte regalado unos chocolates y recuerdo que hasta le pedi un favor a un amigo que me llevara en moto para poder llegar a tiempo ",
         photos: [
             "dani/2025/250816/foto1.jpeg",
             "dani/2025/250816/foto2.jpeg",
@@ -29,7 +29,7 @@ const memories = [
     {
         title: "Una foto en Altama",
         date: "17 · 08 · 2025",
-        description: "Otro momento que se quedó guardado entre nosotros.",
+        description: "Una de mis fotos favoritas mg mucho como salimos nosotros en esa foto, creo tengo un video despues de habernos visto recuerdo q esa vez me fui a casa de ximena en un microbus bien chiquito y bien lleno tambien que me perdi esa vez pero andaba muy contento",
         photos: [
             "dani/2025/250817/foto.jpeg"
         ]
@@ -38,7 +38,7 @@ const memories = [
     {
         title: "Un super juntos",
         date: "31 · 08 · 2025",
-        description: "Pequeños momentos que terminaron significando mucho.",
+        description: "Creo esa vez fuimos primero a altama y despues a heb que fue que se me ocurrio la idea de hacer un super juntos, recuerdo q esa vez dejamos el carrito varado quien sabe que paso despues con el carrito",
         photos: [
             "dani/2025/250831/foto1.jpeg",
             "dani/2025/250831/foto2.jpeg",
@@ -74,7 +74,7 @@ const memories = [
     {
         title: " Floress amarillasss ",
         date: "22 · 09 · 2025",
-        description: "  ___  ",
+        description: "Recuerdo muy bien ese ramo pq mg mucho, por cierto esa es la foto de la que una vez te dije y no te acordaste",
         photos: [
             "dani/2025/250922/250922.jpeg"
         ]
@@ -83,7 +83,7 @@ const memories = [
     {
         title: "El dia que empezo todo",
         date: "27 · 09 · 2025",
-        description: "  ___  ",
+        description: "Ese dia estuve muy pero muy nervioso neta de hecho no podia ni dormir un dia antes de pensar que todo saliera bien y perfecto recuerdo esperar al de las fotos y q demoro mucho tanto asi q hasta tuve q pedirle ayuda a mi primo para q pasara por el ramo, recuerdo tu expresion ese dia y lo bonito que se te veia ese vestido rojo, no me arrepiento de tomar esa decision ese dia...",
         photos: [
             "dani/2025/250927/foto1.jpeg",
             "dani/2025/250927/foto2.jpeg",
@@ -103,7 +103,7 @@ const memories = [
     {
         title: "Rosas",
         date: "27 · 09 · 2025",
-        description: "  ___  ",
+        description: "Creo esta foto nunca te la mostre pq es de un album secreto de fotos que no te diste cuenta jejej",
         photos: [
             "dani/2025/250929/foto1.jpeg"
         ]
@@ -112,7 +112,7 @@ const memories = [
     {
         title: "Llaveritoss ",
         date: "05 · 10 · 2025",
-        description: "  ___  ",
+        description: "recuerdo creo esa vez ibamos twins y presumiendo nuestros llaveritos estuvieron muy bonitos",
         photos: [
             "dani/2025/251005/foto1.jpeg",
             "dani/2025/251005/foto2.jpeg",
@@ -123,7 +123,7 @@ const memories = [
     {
         title: "Twinsss",
         date: "29 · 10 · 2025",
-        description: "  ___  ",
+        description: "Recuerdo bien cuando nos combinabamos en el tec y como eramos muy twins con esas cadenitas por cierto perdon por haber perdido la mia nunca la encontre y aveces me siento mal por eso...",
         photos: [
             "dani/2025/251029/foto1.jpeg",
             "dani/2025/251029/foto2.jpeg",
@@ -141,7 +141,7 @@ const memories = [
     {
         title: "Una caminata",
         date: "03 · 12 · 2025",
-        description: "  ___  ",
+        description: "Esta foto es parte del album secreto de fotos que no te diste cuenta jejej",
         photos: [
             "dani/2025/251203/foto1.jpeg"
         ]
@@ -150,7 +150,7 @@ const memories = [
     {
         title: "Playa juntosss",
         date: "05 · 12 · 2025",
-        description: "  ___  ",
+        description: "Ese dia estuvo muy bonito recuerdo q caminamos por la escollera y creo hacia mucho frio, recuerdo tambien que un mapache te espanto ya estando en la torre, y que estuvo muy bonito ese dia, tambien en el video me da risa por que esa vez sin querer pique al señor de los troles con un palo pobre señor y depues comimos sushi juntos una de nuestras mejores salidas a mi parecer",
         photos: [
             "dani/2025/251205/foto1.jpeg",
             "dani/2025/251205/foto2.jpeg",
@@ -180,7 +180,7 @@ const memories = [
      {
         title: "Una casita de jengibre",
         date: "07 · 12 · 2025",
-        description: "  ___  ",
+        description: "ese dia mg mucho que intentaramos armar la casita de jengibre aunque no nos salio me diverti mucho grabando el proceso de como la haciamos y lo bien que nos la pasamos",
         photos: [
             "dani/2025/251207/foto1.jpeg",
             "dani/2025/251207/foto2.jpeg",
@@ -197,7 +197,7 @@ const memories = [
      {
         title: "Un año nuevo juntoss",
         date: "31 · 12 · 2025",
-        description: "  ___  ",
+        description: "Esas fotos mg mucho mg mucho, ese dia te veias muy bonita y hermosa, disfrute ese dia pasarla y conocer a toda tu familia me la pase super bien recuerdo que me fui rapido ese dia a mi casa por que mi fam me estaba esperando y tambien que mi mama probo la ensalada de frutas q hiciste y le gusto muchoo",
         photos: [
             "dani/2026/260101/foto1.jpeg",
              "dani/2026/260101/foto2.jpeg",
@@ -207,7 +207,7 @@ const memories = [
     {
         title: "San Valentin juntos",
         date: "14 · 02 · 2026",
-        description: "  ___  ",
+        description: "Nuestro primer san valentin juntos tal vez te molesten las fotos q tome pero son las q salieron jeje mg mucho esa chaqueta tuya y haberla pasado contigo te veias muy feliz y contenta espero te gustaran los regalos",
         photos: [
             "dani/2026/260214/foto1.jpeg",
             "dani/2026/260214/foto2.jpeg",
@@ -233,7 +233,7 @@ const memories = [
     {
         title: "Regalos San Valentin ",
         date: "14 · 02 · 2026",
-        description: "  ___  ",
+        description: "Los regalos que me diste tuu me gustaron y me encantaron mucho en especial el lego y los llaveritos que tengo en mis audifonos y mas q nada la carta que me diste ese dia me hizo llorar",
         photos: [
             "dani/2026/260215/foto1.jpeg",
             "dani/2026/260215/foto2.jpeg"
@@ -244,7 +244,7 @@ const memories = [
     {
         title: "Armando un Lego juntos",
         date: "16 · 02 · 2026",
-        description: "  ___  ",
+        description: "Disfrute mucho ese dia armando el lego junto a ti despues de comprar sushi creo y te explique como se armaba",
         photos: [
             "dani/2026/260216/foto1.jpeg",
             "dani/2026/260216/foto2.jpeg",
@@ -263,7 +263,7 @@ const memories = [
     {
         title: "Una Salida al Bicentenario",
         date: "03 · 03 · 2026",
-        description: "  ___  ",
+        description: "ese dia creo fuimos al kurai de la plazita a comprar sushi para despues ir al bicentenario mg ir mucho a ese lugar y mas si es contigo ",
         photos: [
             "dani/2026/260303/foto1.jpeg",
             "dani/2026/260303/foto2.jpeg",
@@ -284,7 +284,7 @@ const memories = [
     {
         title: "Flores Amarillasss",
         date: "06 · 03 · 2026",
-        description: "  ___  ",
+        description: "Recuerdo mucho ese dia por las flores amarillas, me gusto mucho poder darte flores otra vez y mas que nada ver tu reaccion cuando te las di, mg mucho esas flores estaban bonitas y muy grandes",
         photos: [
             "dani/2026/260306/foto1.jpeg",
             "dani/2026/260306/foto2.jpeg",
@@ -296,16 +296,16 @@ const memories = [
     {
         title: "Cumpleaños de tu Mami",
         date: "09 · 03 · 2026",
-        description: "  ___  ",
+        description: "Ese dia fuimos a comer a un restaurante por el cumpleaños de tu mami, recuerdo q m dio cosita pq andaba bn pelon y me veia mal segun yo, disfrute mucho esa cena con tu familia",
         photos: [
             "dani/2026/260309/foto1.jpeg"
         ]
     },
 
     {
-        title: "Regaloo",
+        title: "Flores amarillass de nuevo",
         date: "23 · 03 · 2026",
-        description: "  ___  ",
+        description: "Esas flores no me habian gustado mucho pero como habia pedido otras y ya no m respondieron fue las q consegui, recuerdo q la carta principal se me mojo y tuve que improvisar escribiendo de nuevo en el volante de la camioneta y te puse un texto antes de que conocieras a mis papas",
         photos: [
             "dani/2026/260323/foto1.jpeg"
         ]
@@ -314,7 +314,7 @@ const memories = [
     {
         title: "Salida a laguna",
         date: "28 · 03 · 2026",
-        description: "  ___  ",
+        description: "Ese es otro de los planes mas tops que me han gustado disfrute ese dia andar en lanchita en la laguna y pasar tiempo y caminar me dio mucha paz ese lugar y mas aparte estaba muy bonito mg las fotos que nos tomaron y mas aparte el recorrido que hicimos",
         photos: [
             "dani/2026/260328/foto1.jpeg",
             "dani/2026/260328/foto2.jpeg",
@@ -329,7 +329,7 @@ const memories = [
     {
         title: "Floress de Lego",
         date: "04 · 06   · 2026",
-        description: "  ___  ",
+        description: "Espero te gustara ese regalo lo pense despues de verlo en unas compras q hacia con mi mama me gusto mucho y pense que es un regalo bonito que se puede conservar ",
         photos: [
             "dani/2026/260406/fotos1.jpeg"
         ]
@@ -338,7 +338,7 @@ const memories = [
     {
         title: "Ramo de Rosas",
         date: "28 · 04 · 2026",
-        description: "  ___  ",
+        description: "otro de mis ramos favoritos mg mucho y estuvo muy bonito realmente iba pasando por la floreria y por lo mismo q mg me acorde de ti espero te gustara mucho",
         photos: [
             "dani/2026/260428/asd.jpeg"
         ]
@@ -347,7 +347,7 @@ const memories = [
     {
         title: "Cumple mati",
         date: "03 · 07 · 2026",
-        description: "  ___  ",
+        description: "ese dia me la pase muy bien contigo recuerdo que fuimos por el pastel y andaba manejando con miedo de que se callera, recuerdo tambien que jugamos varios juegos y me la pase muy bien contigo y con lupe y con los niños jugando",
         photos: [
             "dani/2026/260703/foto1.jpeg",
             "dani/2026/260703/foto2.jpeg",
@@ -358,7 +358,7 @@ const memories = [
     {
         title: "Unboxing Regalo Cumple",
         date: "02 · 09 · 2026",
-        description: "  ___  ",
+        description: "Uno de mis videos favoritos espero te gustara todo lo que compre penando en ti, te veias muy bontia con ese outfit que tenias y mg como te vez con el pelo amarrado",
         photos: [
             "dani/2026/260902/Video.mp4"
         ]
@@ -367,7 +367,7 @@ const memories = [
     {
         title: "Mordidaasss",
         date: "03 · 09 · 2026",
-        description: "  ___  ",
+        description: "Esa vez nos estabamos moridendo en los bañosss mg mucho esas fotos y el video esta bien gracioso jajaja",
         photos: [
             "dani/2026/260903/foto1.jpeg",
             "dani/2026/260903/foto2.jpeg",
@@ -379,8 +379,8 @@ const memories = [
 
     {
         title: "Festejo de Tu cumpleañoss",
-        date: "00 · 00 · 2026",
-        description: "  ___  ",
+        date: "05 · 09 · 2026",
+        description: "Ese dia como siempre te veias muy hermosa espero disfrutaras ese dia tan especial y que te la pasaras muy bien mdg estar contigo y pasar tiempo en familia",
         photos: [
             "dani/2026/260905/foto0.jpeg",
             "dani/2026/260905/foto01.jpeg",
@@ -408,7 +408,7 @@ const memories = [
     {
         title: "Cumple ivancito",
         date: "08 · 09 · 2026",
-        description: "  ___  ",
+        description: "Una de mis fotos favvv el cumple de ivancito, esa foto recuerdo que me dio sentimiento de papa cuando lo cargamos y nos tomamos la foto ya que pense que era nuestro hijo y nosotros los papas mg mucho esa foto y es un recuerdo muy inolvidable",
         photos: [
             "dani/2026/260908/foto1.jpeg"
         ]
@@ -416,8 +416,8 @@ const memories = [
 
     {
         title: "Floress amarillas",
-        date: "00 · 00 · 2026",
-        description: "  ___  ",
+        date: "21 · 09 · 2026",
+        description: "Otro de los ramos que mgg muchoo estaba muy bonito y grande recuerdo q cuando lo pase a recoger me espante por que lo habia confundido con otro ramo q la verdad si estaba feo",
         photos: [
             "dani/2026/260921/foto0.jpeg",
             "dani/2026/260921/foto1.jpeg",
